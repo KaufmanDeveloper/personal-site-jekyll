@@ -39,6 +39,7 @@ a developer I've worked on projects for Knoxville Utilities Board.</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Email Template Architecture</h3>
+		<img src="assets/images/email-template.png" alt="" data-position="center center" />
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
@@ -67,10 +68,12 @@ a developer I've worked on projects for Knoxville Utilities Board.</p>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Gradezilla</h3>
+		<img src="assets/images/gradezilla.png" alt="" data-position="center center" />
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Gravity Flyer</h3>
+		<img src="assets/images/gravity-flyer.png" alt="" data-position="center center" />
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
