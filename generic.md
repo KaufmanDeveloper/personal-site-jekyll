@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: About Me
+description:
 image: assets/images/Mak2.jpg
 nav-menu: true
 ---
