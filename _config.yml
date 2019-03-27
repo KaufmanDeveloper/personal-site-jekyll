@@ -3,7 +3,7 @@ title: Michael Kaufman
 subtitle: Web Developer
 email: mkaufman94@gmail.com
 description: I'm a web developer based in Knoxville, TN looking to move to Nashville for family
-baseurl:  # the subpath of your site, e.g. /blog
+baseurl:  "/personal-site-jekyll" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Michael Kaufman
 street_address: 2720 Avalon Bay Rd
