@@ -3,8 +3,8 @@ title: Michael Kaufman
 subtitle: Web Developer
 email: mkaufman94@gmail.com
 description: I'm a web developer based in Knoxville, TN looking to move to Nashville for family
-baseurl:  "/personal-site-jekyll" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: "http://thebluepotion.com" # the base hostname & protocol for your site
 author: Michael Kaufman
 street_address: 2720 Avalon Bay Rd
 city: Maryville
@@ -15,7 +15,7 @@ phone: (865) 363 - 4725
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 6
 
 # social settings
 facebook_url: https://www.facebook.com/maksusername
