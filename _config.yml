@@ -15,7 +15,7 @@ phone: (865) 363 - 4725
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 3
 
 # social settings
 facebook_url: https://www.facebook.com/maksusername
