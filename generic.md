@@ -6,8 +6,10 @@ image: assets/images/Mak2.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+I believe in constant improvement. At Knoxville Utilities Board, a concept my boss and mentor always reinforces is "Kaizen", the Sino-Japanese word for "improvement". If you
+can improve a little every day, the leaps you can make in a year are vast. Taking this approach to my work life has made every day exciting. Web development is a constantly changing
+and evolving field. It requires the willingness and desire to constantly be learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+One of the other principles I try to live by is ABC: Always Be Coding. On the weekends or after work I'll dedicate time to work on my personal projects. Whether it be a side
+web application to help teachers or a video game project, I always want to be exploring new concepts and learning. It's also resulted in me picking up an interest in music, especially
+in modular synthesis. My <a href="https://soundcloud.com/astronaut-bicycle" target="_blank">soundcloud</a> has a few of these tracks.
