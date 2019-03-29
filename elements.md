@@ -53,9 +53,9 @@ a developer I've worked on many projects for Knoxville Utilities Board.</p>
 
 <div class="row">
 	<!-- Break -->
-	<div class="4u 12u$(medium)">
+	<div class="8u 12u$(medium)">
 		<h3>Gradezilla</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>My wife was telling me about a few problems she had with the gradesheet application her school requires her to use, and it made me realize that a powerful free gradesheet application doesn't currently exist. I have begun development on the Ember side of a gradesheet application using an open source UI library called <a href="https://github.com/knoxville-utilities-board/ember-nrg-ui" target="_blank">ember-nrg-ui</a> developed at Knoxville Utilities Board. While I'm currently developing the front end <a href="https://github.com/MakMcFly/gradezilla" target="_blank">here</a> on Github, I plan to use Node services for the API layer and MongoDB or some alternative for the database layer.</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<img src="assets/images/gradezilla.png" alt="" data-position="center center" />
@@ -64,9 +64,9 @@ a developer I've worked on many projects for Knoxville Utilities Board.</p>
 
 <div class="row">
 	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Gravity Flyer</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	<div class="8u 12u$(medium)">
+		<h3>Wo Dude</h3>
+		<p><a href="https://github.com/MakMcFly/gravity-flyer" target="_blank">Wo Dude</a> was a game I created in a weekend. I wanted to challenge myself to come up with an idea and see if I could fully flesh it out within that time frame including the programming, art, and music. It was a fun project and it taught me a lot about the Godot game engine. Godot is an open source game engine built around modular design and has become my favorite engine for game programming.</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<img src="assets/images/gravity-flyer.png" alt="" data-position="center center" />
@@ -75,9 +75,9 @@ a developer I've worked on many projects for Knoxville Utilities Board.</p>
 
 <div class="row">
 	<!-- Break -->	
-	<div class="4u 12u$(medium)">
+	<div class="8u 12u$(medium)">
 		<h3>Sword Runner</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>The first game I used to learn Gamemaker was Sword Runner. It's a side scrolling platformer that if I decide to finish will be redone in Godot. GML, or Gamemaker Language, is very similar to Javascript, which is a benefit to the engine. However, Godot is more easily flexible for creators who are comfortable with Object Oriented Programming techniques. It was a fun project to work on however as it taught me the basics of the engine.</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<img src="assets/images/sword-runner.png" alt="" data-position="center center" />
